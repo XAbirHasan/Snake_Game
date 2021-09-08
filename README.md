@@ -1,7 +1,6 @@
 # Snake_Game
 
-I always wonder with programming. Then I started to learn it. September 2016, I start with c programming.
-This game was made in 2017. This is my 1st project on game that I have made after learning c.
+I always wonder about programming. Then I started to learn it. September 2016, I started with c programming. This game was made in 2017. This is my 1st project on a game that I have made after learning c.
 
 ## Project description
 Name: Snake <br>
