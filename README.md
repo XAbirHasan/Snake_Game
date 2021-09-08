@@ -4,9 +4,10 @@ I always ownder with programming. Then I started to learn it. Semptember 2016, I
 This game was made in 2017. This is my 1st poject on game that i have made after learing c.
 
 ## Project description
-Name: Snake
-Programming Language: C
-Project No: 1
+Name: Snake <br>
+Programming Language: C <br>
+Project No: 1 <br>
+Year: 2017
 
 ## Screen shot
 ### Homescreen
