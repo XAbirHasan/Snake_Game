@@ -1,3 +1,19 @@
 # Snake_Game
 
-this game was made in 2017.this is my 1st poject on game that i have made.
+I always ownder with programming. Then I started to learn it. Semptember 2016, I start with c programming.
+This game was made in 2017. This is my 1st poject on game that i have made after learing c.
+
+## Project description
+Name: Snake
+Programming Language: C
+Project No: 1
+
+## Screen shot
+Homescreen
+![homepage](demo/1.png)
+
+## Authors
+
+* **AbirHasan**
+
+Check out my other works [@XAbirHasan](https://github.com/XAbirHasan)
