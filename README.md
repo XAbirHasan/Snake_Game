@@ -10,7 +10,7 @@ Project No: 1
 
 ## Screen shot
 Homescreen
-![homepage](demo/1.png)
+<img src="demo/1.png" alt="HomeScreen"/>
 
 ## Authors
 
