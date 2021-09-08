@@ -10,9 +10,7 @@ Project No: 1 <br>
 Year: 2017
 
 ## Demo Video
-<video width="400" controls>
-  <source src="https://youtu.be/jOGlcWFp1nU" type="demo/demo_video.mp4">
-</video>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/jOGlcWFp1nU/0.jpg)](http://www.youtube.com/watch?v=jOGlcWFp1nU "Snake")
 
 ## Screen shot
 ### Homescreen
