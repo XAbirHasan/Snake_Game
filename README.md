@@ -9,19 +9,19 @@ Programming Language: C
 Project No: 1
 
 ## Screen shot
-Homescreen
+### Homescreen
 <br>
 <img src="demo/1.png" alt="HomeScreen" width="800"/>
 
-Instruction Page
+### Instruction Page
 <br>
 <img src="demo/2.png" alt="Instruction Page" width="800"/>
 
-Game Window
+### Game Window
 <br>
 <img src="demo/3.png" alt="Game Play" width="800"/>
 
-GameOver
+### GameOver
 <br>
 <img src="demo/4.png" alt="GameOver" width="800"/>
 
