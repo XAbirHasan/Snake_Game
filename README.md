@@ -9,6 +9,9 @@ Programming Language: C <br>
 Project No: 1 <br>
 Year: 2017
 
+## Demo Video
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/jOGlcWFp1nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Screen shot
 ### Homescreen
 <br>
