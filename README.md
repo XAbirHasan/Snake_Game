@@ -10,7 +10,7 @@ Project No: 1
 
 ## Screen shot
 Homescreen
-<img src="demo/1.png" alt="HomeScreen" width="400"/>
+<img src="demo/1.png" alt="HomeScreen" width="800"/>
 
 ## Authors
 
